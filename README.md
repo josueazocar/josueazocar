@@ -56,7 +56,7 @@
 </ul>
 </div>
 
- ## <b> Projects I've worked in!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+ ## <b> Projects I've worked in</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -75,7 +75,7 @@
         </tr>
         <tr>
           <td style="text-align: center; padding-top: 5px;">
-            <p>J Sonic VideoGame: JAVA, LIBGDX, KRYONET</p>
+            <p>J Sonic (Multiplayer Game): JAVA, LIBGDX, KRYONET</p>
           </td>
         </tr>
       </table>
@@ -123,7 +123,7 @@
         </tr>
         <tr>
           <td style="text-align: center; padding-top: 5px;">
-            <p>Web Analizer: C++, WinForms (.NET) </p>
+            <p>Web Analyzer: C++, WinForms (.NET) </p>
           </td>
         </tr>
       </table>
