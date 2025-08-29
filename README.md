@@ -55,5 +55,78 @@
 	
 </ul>
 </div>
- 
 
+ ## <b> Projects I've worked in!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+
+- 👇 To know more about each one `click on the image`.
+<table>
+  <tr>
+    <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josueazocar/Proyecto-JSonic" target="_blank">
+              <img width="360" height="210" alt="482962621-ae2db516-b573-451d-a88a-03d01227aaa2" src="https://github.com/user-attachments/assets/a78889be-ac03-412e-b43e-aa7058786503" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>J Sonic VideoGame: JAVA, LIBGDX, KRYONET</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josueazocar/DamasGame" target="_blank">
+              <img width="360" height="210" alt="482965848-87f4fbc1-1111-4242-aef0-5b8080bb5412" src="https://github.com/user-attachments/assets/04335dd8-1ff8-44de-a5eb-73c9e0a11ed7" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p> Checkers VideoGame: C++, OOP</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josueazocar/Supermarket_Simulation" target="_blank">
+              <img width="360" height="210" alt="482973756-b6e3dc5b-2ae1-47a0-a159-ab3a5fa5fe33" src="https://github.com/user-attachments/assets/c9217cd5-6a49-499d-a8c2-5dc0eedac3dc" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>Supermarket Simulation: C++, WinForms (.NET) </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josueazocar/NexusCrawlerApp" target="_blank">
+              <img width="310" height="210" alt="image" src="https://github.com/user-attachments/assets/9d49232c-8c03-4c34-8d04-1683014801ca" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>Web Analizer: C++, WinForms (.NET) </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
