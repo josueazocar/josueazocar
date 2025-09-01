@@ -112,6 +112,22 @@
         </tr>
       </table>
     </td>
+	     <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josmer-azocar/Concurrent-Gas-Station-Simulator" target="_blank">
+              <img width="360" height="210" alt="482973756-b6e3dc5b-2ae1-47a0-a159-ab3a5fa5fe33" src= "https://private-user-images.githubusercontent.com/172326837/483916189-0421719a-fc16-42be-b763-465f0eb84254.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTY2ODkxMjksIm5iZiI6MTc1NjY4ODgyOSwicGF0aCI6Ii8xNzIzMjY4MzcvNDgzOTE2MTg5LTA0MjE3MTlhLWZjMTYtNDJiZS1iNzYzLTQ2NWYwZWI4NDI1NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwMVQwMTA3MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYzIxYzgxODAzYzBlNDJjZjlhYTQ0ZDZjODAzNzY1YTI3NzEyNWE3YzdjZDg0MDI4MjMyYTk0ZjU2ODllMzAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.JlO4MahpRUdNRJrnoZepeBwpBSCf2t5kQrJNCb94FmA"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>Concurrent Gas Station Simulator: C, PTHREADS </p>
+          </td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
