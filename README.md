@@ -49,18 +49,15 @@ Building robust and efficient backend solutions. I specialize in creating scalab
 <div align='left'>
 
 
-<li>
-<a href="https://www.linkedin.com/in/josue-azocar-sosa-61910a37b/" target="_blank">
+
+<a href="https://www.linkedin.com/in/josue-azocar/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Josue_azocar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 
-
-<li>
 <a href="mailto:josue05azocar@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Josue_Azocar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+
 	
 </ul>
 </div>
