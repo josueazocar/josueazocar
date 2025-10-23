@@ -10,7 +10,7 @@ Building robust and efficient backend solutions. I specialize in creating scalab
 - 💻 **Main Tech Stack:** `Java`,`C/C++`,`Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL`, `MySQL`
 - 🛠️ **Tools & Platforms:** `Docker`, `Git`, `Maven`, `JUnit`, `Mockito`,`Postman`
 - 🌱 **Currently exploring:** `Microsoft Azure`, `Spring AI`
-- 📝Currently pursuing a computer engineering degree, with a strong foundation in object-oriented programming `OOP`, data structures, and databases.
+- 🎓Currently pursuing a Computer Science Engineering Degree, with a strong foundation in object-oriented programming `OOP`, data structures, and databases.
 <br>
 
 
