@@ -48,7 +48,9 @@ Building robust and efficient backend solutions. I specialize in creating scalab
 ## <b>💬Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <div align='left'>
 
-
+<a href="https://josueazocar.github.io" target="_blank">
+<img src="https://img.shields.io/badge/  Portfolio  -%2300acee.svg?color=black&style=for-the-badge&logo=linkedin&logoColor=white" alt=portfolio style="margin-bottom: 5px;"/>
+</a>
 
 <a href="https://www.linkedin.com/in/josue-azocar/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Josue_azocar-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
@@ -58,7 +60,7 @@ Building robust and efficient backend solutions. I specialize in creating scalab
 <img src="https://img.shields.io/badge/gmail:  Josue_Azocar-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-	
+
 </ul>
 </div>
 
@@ -66,8 +68,27 @@ Building robust and efficient backend solutions. I specialize in creating scalab
 <br>
 <div align='left'>
 
-
 - 👇 To know more about each one `click on the image`.
+
+<table>
+  <tr>
+    <td style="padding-right: 15px;">
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/josmer-azocar/StudyU_Flow" target="_blank">
+              <img width="360" height="280" alt="Generated Image October 20, 2025 - 5_04PM" src="https://github.com/user-attachments/assets/7a0153ec-cdde-4e6e-a160-bf35d1416da0" />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td style="text-align: center; padding-top: 5px;">
+            <p>StudyU Flow: JAVA, Spring, PostgreSQL, Docker</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="padding-right: 15px;">
 <table>
   <tr>
     <td style="padding-right: 15px;">
