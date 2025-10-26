@@ -76,7 +76,7 @@ Building robust and efficient backend solutions. I specialize in creating scalab
       <table>
         <tr>
           <td>
-            <a href="https://github.com/josmer-azocar/StudyU_Flow" target="_blank">
+            <a href="https://github.com/josueazocar/StudyU_Flow-Api" target="_blank">
               <img width="360" height="280" alt="Generated Image October 20, 2025 - 5_04PM" src="https://github.com/user-attachments/assets/7a0153ec-cdde-4e6e-a160-bf35d1416da0" />
             </a>
           </td>
